@@ -325,10 +325,10 @@
   ],
   "images": [
     {
-      "uri": "textures/blinn2_normal.jpg"
+      "uri": "blinn2_normal.jpg"
     },
     {
-      "uri": "textures/blinn2_baseColor.jpeg"
+      "uri": "blinn2_baseColor.jpeg"
     }
   ],
   "materials": [
