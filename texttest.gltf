@@ -1,0 +1,31 @@
+{
+    "asset" : {
+        "generator" : "Khronos Blender glTF 2.0 exporter", 
+        "version" : "2.0"
+    }, 
+    "nodes" : [
+        {
+            "name" : "hello", 
+            "rotation" : [
+                0.0, 
+                0.7071068286895752, 
+                -0.0, 
+                0.7071067690849304
+            ], 
+            "translation" : [
+                0.0, 
+                0.23547381162643433, 
+                2.5255515575408936
+            ]
+        }
+    ], 
+    "scene" : 0, 
+    "scenes" : [
+        {
+            "name" : "Scene", 
+            "nodes" : [
+                0
+            ]
+        }
+    ]
+}
